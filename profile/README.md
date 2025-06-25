@@ -1,4 +1,4 @@
-# Hello friend, welcome to Canvas:OS 👋
+# Hello, welcome to Canvas:OS 👋
 
 ## Why We Exist
 We're here to help organisations find flow and perform at their best. 
