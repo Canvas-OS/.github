@@ -1,12 +1,12 @@
 # Hello, welcome to Canvas:OS 👋
 
-## Why We Exist
+### Why We Exist
 We're here to help organisations find flow and perform at their best. 
 
-## What We Do
+### What We Do
 Canvas:OS is an organisational improvement platform, with a range of interactive charts, tools, and templates to create a holistic picture of your organisation from purpose to practice.
 
-## How We Do It
+### How We Do It
 
 ## 🛠️ Languages and Frameworks
 
