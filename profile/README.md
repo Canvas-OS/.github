@@ -18,7 +18,7 @@ Canvas:OS is an organisational improvement platform, with a range of interactive
 
 ## 📦 Key Packages
 
-### Data Visualisation
+### Visualisation
 - **D3.js** - Powerful library for custom charts. Currently using the packed circles, sunburst, and force-directed charts
 - **Chart.js** - For simpler read only charts
 - **Material UI** - Extensible dynamic tables
@@ -30,11 +30,11 @@ Canvas:OS is an organisational improvement platform, with a range of interactive
 - **Mistral** - LLM powered autocomplete for the content editor
 - **TLDraw** - Infinte sketch canvas
 
-### Testing & Development
+### Testing
 - **Vitest** - Unit testing framework with TypeScript support
 - **Playwright** - End-to-end testing
 
-### Real-time Communication
+### Communication
 - **Pusher** - Real-time WebSocket communication for chat and notifications
 
 ### UI & Components
@@ -44,7 +44,7 @@ Canvas:OS is an organisational improvement platform, with a range of interactive
 - **React DnD** - Drag and drop for the chart content manager
 - **React Colorful** - Tidy little colour picker
 
-## 🌐 Third-Party Services
+## 🌐 3rd Party Services
 
 - **Vercel** - Hosting platform with edge functions and analytics
 - **Neon Database** - Serverless PostgreSQL database with automatic scaling
@@ -84,21 +84,20 @@ Canvas:OS is an organisational improvement platform, with a range of interactive
 - **NextAuth.js** - Secure auth with Notion, Google, and Microsoft providers
 
 ### Rate Limiting & Monitoring
-- **Upstash Rate Limiting** - API rate limiting to prevent abuse
 - **CSRF Protection** - Cross-site request forgery prevention
-- **Input Sanitization** - DOMPurify for secure HTML content handling
+- **Input Sanitisation** - DOMPurify for secure HTML content handling
 
 ## ✨ Key Capabilities
 
 ### Interactive Charts
 - **BYOD Charts** - Bring Your Own Data charting with CSV upload (integrations coming soon...)
-- **Org Charts** - Configurable org structure visualisation
+- **Org Charts** - Configurable org chart
 - **Custom Notion Charts** - Dynamic charts synced with Notion databases
 - **Notion Workspace Map** - Interactive packed circle chart with the page and db hierarchy within a teamspace
 - **Notion Database Relations** - DB relationship mapping using the force-directed chart
 - **Embeddable** - Embeddable as iframe
 
-### Collaborative Canvases
+### Canvases
 - **Interactive Drawing** - Performant Canvases using tlDraw
 - **Canvas Persistence** - Event based auto save
 - **Embeddable** - Embeddable canvas creations (read only for now)
@@ -112,7 +111,7 @@ Canvas:OS is an organisational improvement platform, with a range of interactive
 - **Rich Text Editor** - Advanced content editing with TipTap and Novel
 - **Template System** - Editable content templates
 
-### Assessment Tools
+### Assessments
 - **Team Health Checks** - Simple, repeatable team health checks
 - **OS Scans** - OS health assessment
 - **Analytics Dashboard** - Results charts, tables, and trend insights
