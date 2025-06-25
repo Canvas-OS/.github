@@ -19,15 +19,15 @@ Canvas:OS is an organisational improvement platform, with a range of interactive
 ## 📦 Key Packages
 
 ### Visualisation
-- **D3.js** - Powerful library for custom charts. Currently using the packed circles, sunburst, and force-directed charts
+- **D3.js** - Library for custom charts. Currently using the packed circles, sunburst, and force-directed charts
 - **Chart.js** - For simpler read only charts
-- **Material UI** - Extensible dynamic tables
-- **Mermaid** - Simple user generated charts in the content editor
+- **Material UI** - Dynamic tables
+- **Mermaid** - User generated charts in the rich text editor
 
 ### Content Creation
 - **TipTap** - Rich text editor
 - **Novel** - Notion style WYSIWYG package to extend Tiptap
-- **Mistral** - LLM powered autocomplete for the content editor
+- **Mistral** - LLM powered autocomplete
 - **TLDraw** - Infinte sketch canvas
 
 ### Testing
