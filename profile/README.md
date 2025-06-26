@@ -44,7 +44,7 @@ Canvas:OS is an organisational improvement platform, with a range of interactive
 - **React DnD** - Drag and drop for the chart content manager
 - **React Colorful** - Tidy little colour picker
 
-## 🌐 3rd Party Services
+## 🌐 Services
 
 - **Vercel** - Hosting platform with edge functions and analytics
 - **Neon Database** - Serverless PostgreSQL database with automatic scaling
@@ -57,7 +57,7 @@ Canvas:OS is an organisational improvement platform, with a range of interactive
 - **Microsoft Graph** - Partner integration for auth and AD directory syncing
 - **Google** - Auth and directory syncing
 
-## 🔄 GitHub Actions
+## 🔄 Actions
 
 ### Continuous Integration
 - **Vitest Runner** - Automated unit and integration testing on push/PR
@@ -87,7 +87,7 @@ Canvas:OS is an organisational improvement platform, with a range of interactive
 - **CSRF Protection** - Cross-site request forgery prevention
 - **Input Sanitisation** - DOMPurify for secure HTML content handling
 
-## ✨ Key Capabilities
+## ✨ Capabilities
 
 ### Interactive Charts
 - **BYOD Charts** - Bring Your Own Data charting with CSV upload (integrations coming soon...)
