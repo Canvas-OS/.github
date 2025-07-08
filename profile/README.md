@@ -56,6 +56,7 @@ Canvas:OS is an organisational improvement platform, with a range of interactive
 - **Notion API** - [Public integration]([url](https://www.notion.com/integrations/135d872b594c80a6adb40037ac517711)) for auth and workspace sharing
 - **Microsoft Graph** - Partner integration for auth and AD directory syncing
 - **Google** - Auth and directory syncing
+- **Posthog** - Product analytics
 
 ## 🔄 Actions
 
@@ -107,14 +108,15 @@ Canvas:OS is an organisational improvement platform, with a range of interactive
 - **Channels** - Unlimited channel creation and access management
 - **Notifications** - Real-time message notifications
 
+- ### Health Assessments
+- **React Hook Forms** - Configurable OS health assessments with weighted scoring
+- **AI sentiment analysis** - Mistral AI for text-based assessment responses
+- **Material UI** - Material UI table for managing responses
+- **chart.js** - Radar and tiles chart for weighted assessment results
+
 ### Content Editor
 - **Rich Text Editor** - Advanced content editing with TipTap and Novel
 - **Template System** - Editable content templates
-
-### Assessments
-- **Team Health Checks** - Simple, repeatable team health checks
-- **OS Scans** - OS health assessment
-- **Analytics Dashboard** - Results charts, tables, and trend insights
 
 ---
 
