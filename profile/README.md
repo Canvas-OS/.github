@@ -108,11 +108,11 @@ Canvas:OS is an organisational improvement platform, with a range of interactive
 - **Channels** - Unlimited channel creation and access management
 - **Notifications** - Real-time message notifications
 
-- ### Health Assessments
-- **React Hook Forms** - Configurable OS health assessments with weighted scoring
+### Health Assessments
+- **Assessment Form** - Configurable OS health assessments with weighted scoring
 - **AI sentiment analysis** - Mistral AI for text-based assessment responses
-- **Material UI** - Material UI table for managing responses
-- **chart.js** - Radar and tiles chart for weighted assessment results
+- **Charts** - Radar and tiles chart for weighted assessment results
+- **Table** - Material UI table for managing responses
 
 ### Content Editor
 - **Rich Text Editor** - Advanced content editing with TipTap and Novel
